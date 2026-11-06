@@ -1,0 +1,5 @@
+# PUBLISH AFTER: multi-board-jobs is public on the Apify Store
+results.csv
+.env
+__pycache__/
+.venv/
