@@ -5,6 +5,10 @@
 
 A small, runnable example for [Multi Job Board Scraper](https://apify.com/aurelix/multi-job-board-scraper), an Apify Actor by Aurelix.
 
+[![Multi Job Board Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/multi-job-board-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/multi-job-board-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/multi-job-board-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Multi Job Board Scraper runs one job search across LinkedIn's public job search, a bundled list of about 50 company career sites (25 searched per run by default) on Greenhouse, Lever, Ashby and SmartRecruiters (plus any boards you add), and the Remote OK and We Work Remotely feeds, and returns one deduplicated list. Every row has the same fields: title, company, location, ISO country, workplace type, job types, pay where published, posted date, job and apply links and description, plus the sources it was found on. Give keywords and a country once; the same job on LinkedIn and the employer's own site becomes one row, charged once.
