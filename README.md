@@ -1,3 +1,5 @@
+**Multi Job Board Scraper - LinkedIn + Career Sites.** LinkedIn, about 50 company career sites, Remote OK and We Work Remotely jobs in one deduplicated list. Price, example input and output, and FAQ: [Multi Job Board Scraper on the Aurelix tools site](https://aurelix-solutions.github.io/tools/multi-job-board-scraper/). Run it on the Apify Store: [apify.com/aurelix/multi-job-board-scraper](https://apify.com/aurelix/multi-job-board-scraper).
+
 <!-- PUBLISH AFTER: multi-board-jobs is public on the Apify Store -->
 # Multi Job Board Scraper: Python example
 
